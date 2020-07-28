@@ -18,16 +18,20 @@ learner | harmony | connectedness | analytical | deliberative
 ### Financial Contributor
 - [Jovo Framework](https://opencollective.com/jovo-framework)
 
-### Alexa Skills
+### My Alexa Skills
 - Picture Guesser
 - [Server More](https://servemore.shazaml.com/)
 - [Number Spies](https://numberspies.com/)
 
-### Bixby Capsules
+### My Bixby Capsules
 - [Server More](https://servemore.shazaml.com/)
 - [SquareAbouts](https://squareabouts.shazaml.com/)
 - [Family Talk](https://familytalk.shazaml.com/)
 - Unofficial Princess Bride
+
+### Work Alexa Skills
+- My Sandler
+- Soar Uplift
 
 ### Visual Studio Code Extensions
 - [AWS CLI Configure](https://marketplace.visualstudio.com/items?itemName=mark-tucker.aws-cli-configure)
