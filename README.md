@@ -20,11 +20,11 @@ learner | harmony | connectedness | analytical | deliberative
 
 ### My Alexa Skills
 - Picture Guesser
-- [Server More](https://servemore.shazaml.com/)
+- [Serve More](https://servemore.shazaml.com/)
 - [Number Spies](https://numberspies.com/)
 
 ### My Bixby Capsules
-- [Server More](https://servemore.shazaml.com/)
+- [Serve More](https://servemore.shazaml.com/)
 - [SquareAbouts](https://squareabouts.shazaml.com/)
 - [Family Talk](https://familytalk.shazaml.com/)
 - Unofficial Princess Bride
