@@ -9,9 +9,9 @@ learner | harmony | connectedness | analytical | deliberative | intellection | d
 - [28 Jul 2020 - Future Ear Radio (episode 39)](https://futurear.co/2020/07/28/039-mark-tucker-top-5-takeaways-from-alexa-live-2020/)
 - [17 May 2020 - The Artificial Podcast (episode 48)](https://anchor.fm/the-artificial-podcast/episodes/48-Mark-Tucker--Developing-for-Voice-Tips--Tactics--Strategies--and-Speech-Markdown-ee6f15)
 - [02 Mar 2020 - Bixby Developers Chat (episode 8)](https://www.buzzsprout.com/793529/3030607-voice-development-speech-markdown-and-jovo-with-mark-tucker)
-- [22 Mar 2018 - This Week in Voice (season 2, episode 9](https://www.thisweekinvoice.com/s2e9-march-22-2018)
-- [14 Dec 2017 - This Week in Voice (season 1, episode 21](https://www.thisweekinvoice.com/episode-21-december-14-2017)
-- [06 Jul 2017 - This Week in Voice (season 1, episode 1](https://www.thisweekinvoice.com/episode-1-july-6-2017)
+- [22 Mar 2018 - This Week in Voice (season 2, episode 9)](https://www.thisweekinvoice.com/s2e9-march-22-2018)
+- [14 Dec 2017 - This Week in Voice (season 1, episode 21)](https://www.thisweekinvoice.com/episode-21-december-14-2017)
+- [06 Jul 2017 - This Week in Voice (season 1, episode 1)](https://www.thisweekinvoice.com/episode-1-july-6-2017)
 
 
 ### My Open-Souce Projects
