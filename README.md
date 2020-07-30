@@ -24,13 +24,13 @@ learner | harmony | connectedness | analytical | deliberative | intellection | d
 
 ### My Alexa Skills
 - Picture Guesser
-- [Serve More](https://servemore.shazaml.com/)
-- [Number Spies](https://numberspies.com/)
+- Serve More [[website]](https://servemore.shazaml.com/)
+- Number Spies [[website]](https://numberspies.com/)
 
 ### My Bixby Capsules
-- [Serve More](https://servemore.shazaml.com/)
-- [SquareAbouts](https://squareabouts.shazaml.com/)
-- [Family Talk](https://familytalk.shazaml.com/)
+- Serve More [[website]](https://servemore.shazaml.com/)
+- SquareAbouts [[website]](https://squareabouts.shazaml.com/)
+- Family Talk [[website]](https://familytalk.shazaml.com/)
 - Unofficial Princess Bride
 
 ### Work Alexa Skills
