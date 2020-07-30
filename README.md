@@ -35,7 +35,7 @@ learner | harmony | connectedness | analytical | deliberative | intellection | d
 
 ### Work Alexa Skills
 - My Sandler
-- Soar Uplift
+- Soar Uplift [[launch]](https://alexa-skills.amazon.com/apis/custom/skills/amzn1.ask.skill.1be65940-84e8-44f1-886e-7c6ac189ebf1/tasks/LaunchStats/versions/1?a2z_ref=tucker_github)
 
 ### Visual Studio Code Extensions
 - [AWS CLI Configure](https://marketplace.visualstudio.com/items?itemName=mark-tucker.aws-cli-configure)
