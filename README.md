@@ -2,7 +2,7 @@
 learner | harmony | connectedness | analytical | deliberative | intellection | developer | belief | responsibility | consistency
 
 ### Two Voice Devs
-- [YouTube](https://youtu.be/y6B-esPOXWQ)
+- [YouTube](https://www.youtube.com/channel/UCBWYqZpPY2U_wn2P72FUpBA)
 - [Podcast](https://anchor.fm/two-voice-devs)
 
 ### Coming Soon
