@@ -1,11 +1,15 @@
 ### CliftonStrengths Top 10
 learner | harmony | connectedness | analytical | deliberative | intellection | developer | belief | responsibility | consistency
 
+### Two Voice Devs
+- [YouTube](https://youtu.be/y6B-esPOXWQ)
+- [Podcast](https://anchor.fm/two-voice-devs)
+
 ### Coming Soon
-- [30 Jul 2020 - VOICE Talks (episode 4)](https://www.voicesummit.ai/talks?utm_campaign=VOICE%20Talks&utm_content=135566350&utm_medium=social&utm_source=twitter&hss_channel=tw-975463310496641024)
 - [26 Aug 2020 - The Voice Den (5 pm PDT / 8 pm EDT)](https://alexaincanada.ca/the-voice-den/)
 
 ### On Social
+- [30 Jul 2020 - VOICE Talks (episode 4)](https://youtu.be/HT7uAJnMXm4)
 - [28 Jul 2020 - Future Ear Radio (episode 39)](https://futurear.co/2020/07/28/039-mark-tucker-top-5-takeaways-from-alexa-live-2020/)
 - [17 May 2020 - The Artificial Podcast (episode 48)](https://anchor.fm/the-artificial-podcast/episodes/48-Mark-Tucker--Developing-for-Voice-Tips--Tactics--Strategies--and-Speech-Markdown-ee6f15)
 - [02 Mar 2020 - Bixby Developers Chat (episode 8)](https://www.buzzsprout.com/793529/3030607-voice-development-speech-markdown-and-jovo-with-mark-tucker)
