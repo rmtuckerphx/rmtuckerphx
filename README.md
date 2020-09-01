@@ -7,6 +7,7 @@ learner | harmony | connectedness | analytical | deliberative | intellection | d
 
 ### Coming Soon
 - Sep 2020 - VoiceSpark
+- Oct 2020 - VOICE Summit: Why Speech Markdown is Better than SSML - 16 Month Update
 
 ### On Social
 - [26 Aug 2020 - The Voice Den (5 pm PDT / 8 pm EDT)](https://alexaincanada.ca/the-voice-den/)
