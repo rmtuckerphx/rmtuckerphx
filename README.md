@@ -6,9 +6,10 @@ learner | harmony | connectedness | analytical | deliberative | intellection | d
 - [Podcast](https://anchor.fm/two-voice-devs)
 
 ### Coming Soon
-- [26 Aug 2020 - The Voice Den (5 pm PDT / 8 pm EDT)](https://alexaincanada.ca/the-voice-den/)
+- Sep 2020 - VoiceSpark
 
 ### On Social
+- [26 Aug 2020 - The Voice Den (5 pm PDT / 8 pm EDT)](https://alexaincanada.ca/the-voice-den/)
 - [30 Jul 2020 - VOICE Talks (episode 4)](https://youtu.be/HT7uAJnMXm4)
 - [28 Jul 2020 - Future Ear Radio (episode 39)](https://futurear.co/2020/07/28/039-mark-tucker-top-5-takeaways-from-alexa-live-2020/)
 - [17 May 2020 - The Artificial Podcast (episode 48)](https://anchor.fm/the-artificial-podcast/episodes/48-Mark-Tucker--Developing-for-Voice-Tips--Tactics--Strategies--and-Speech-Markdown-ee6f15)
