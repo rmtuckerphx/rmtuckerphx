@@ -6,10 +6,11 @@ learner | harmony | connectedness | analytical | deliberative | intellection | d
 - [Podcast](https://anchor.fm/two-voice-devs)
 
 ### Coming Soon
-- Sep 2020 - VoiceSpark
-- Oct 2020 - VOICE Summit: Why Speech Markdown is Better than SSML - 16 Month Update
+- 7 Oct 2020 @ 12:15 PM EDT/ 9:15 AM PDT - VOICE Summit: Why Speech Markdown is Better than SSML - 16 Month Update
 
 ### On Social
+- [4 Oct 2020 - Voicebot Podcast Ep 172](https://voicebot.ai/2020/10/04/two-voice-devs-mark-tucker-and-allen-firstenberg-talk-alexa-google-assistant-and-more-voicebot-podcast-ep-172/)
+- [17 Sep 2020 - Voice Spark Live](https://www.youtube.com/watch?v=1rSbPNFUj_8)
 - [26 Aug 2020 - The Voice Den (5 pm PDT / 8 pm EDT)](https://alexaincanada.ca/the-voice-den/)
 - [30 Jul 2020 - VOICE Talks (episode 4)](https://youtu.be/HT7uAJnMXm4)
 - [28 Jul 2020 - Future Ear Radio (episode 39)](https://futurear.co/2020/07/28/039-mark-tucker-top-5-takeaways-from-alexa-live-2020/)
