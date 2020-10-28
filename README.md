@@ -90,6 +90,19 @@ learner | harmony | connectedness | analytical | deliberative | intellection | d
 - [AWS CLI Configure](https://marketplace.visualstudio.com/items?itemName=mark-tucker.aws-cli-configure)
 - [ASK CLI Configure](https://marketplace.visualstudio.com/items?itemName=mark-tucker.ask-cli-configure)
 
+### Articles
+- [20 Jun 2019 - Speech Markdown is the Simpler Way to Format Text-to-Speech Content Over SSML](https://voicebot.ai/2019/06/20/speech-markdown-is-the-simpler-way-to-format-text-to-speech-content-over-ssml/)
+- [26 Oct 2019 - Bixby Learnings from an Alexa Developer](https://voicebot.ai/2019/10/26/bixby-learnings-from-an-alexa-developer/)
+- [15 Oct 2019 - Customizing Voice Experiences for Echo Auto and Other In-Vehicle Devices](https://voicebot.ai/2019/10/15/customizing-voice-experiences-for-echo-auto-and-other-in-vehicle-devices/)
+- [30 Apr 2019 - 50 Wishes for the Alexa Genie](https://www.linkedin.com/pulse/50-wishes-alexa-genie-mark-tucker/)
+- [23 Feb 2019 - Better Business Conversations Start with Third-Party Voice Apps, But First-Party Rules Today](https://voicebot.ai/2019/02/23/better-business-conversations-start-with-third-party-voice-apps-but-first-party-rules-today/)
+- [30 Dec 2018 - Alexa Needs Intent Context in 2019](https://voicebot.ai/2018/12/30/guest-developer-post-alexa-needs-intent-context-in-2019/)
+- [13 Sep 2018 - Year in the Life of an Alexa Champion](https://www.linkedin.com/pulse/year-life-alexa-champion-mark-tucker/)
+- [05 May 2018 - What the Infinity Gauntlet Teaches Us About Voice-First Experiences](https://voicebot.ai/2018/05/05/guest-post-what-the-infinity-gauntlet-teaches-us-about-voice-first-experiences/)
+- [23 Feb 2018 - How to Sway Voting for Alexa Features?](https://www.linkedin.com/pulse/how-sway-voting-alexa-features-mark-tucker/)
+- [30 Nov 2017 - Celebrities Help Showcase Voice Technology](https://www.linkedin.com/pulse/celebrities-help-showcase-voice-technology-mark-tucker/)
+- [24 Jul 2017 - "Carpe diem!" Voice Designers](https://www.linkedin.com/pulse/carpe-diem-voice-designers-mark-tucker/)
+
 ### Other Things
 - [Phoenix Alexa Meetup](https://www.meetup.com/phoenix-arizona-alexa-meetup/)
 - [Ubiquitous Voice Society - Phoenix](https://www.meetup.com/uvs-phoenix/)
