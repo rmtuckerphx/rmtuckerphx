@@ -30,23 +30,33 @@ learner | harmony | connectedness | analytical | deliberative | intellection | d
 ### Financial Contributor
 - [Jovo Framework](https://opencollective.com/jovo-framework)
 
-### My Alexa Skills
+### Personal Voice Apps
+#### My Alexa Skills
 - Picture Guesser
 - Serve More [[website]](https://servemore.shazaml.com/)
 - Number Spies [[website]](https://numberspies.com/)
+- Encircle Together
+- Mass Shooting Tracker
 
-### My Bixby Capsules
+#### My Bixby Capsules
 - Serve More [[website]](https://servemore.shazaml.com/)
 - SquareAbouts [[website]](https://squareabouts.shazaml.com/)
 - Family Talk [[website]](https://familytalk.shazaml.com/)
 - Unofficial Princess Bride
 
-### Work Alexa Skills
-#### Soar.com
+#### Demos
+- Boy Scouts of America
+
+
+### Work Voice Apps
+#### Soar.com - Production
 - My Sandler
 - Soar Uplift [[launch]](https://alexa-skills.amazon.com/apis/custom/skills/amzn1.ask.skill.1be65940-84e8-44f1-886e-7c6ac189ebf1/tasks/LaunchStats/versions/1?a2z_ref=tucker_github)
-#### VoiceXP
-##### Production
+
+#### Home Number - Production
+- Home Number
+
+#### VoiceXP - Production
 - Chingy
 - Mercy
 - Midtown Martin
@@ -58,7 +68,7 @@ learner | harmony | connectedness | analytical | deliberative | intellection | d
 - Healthcare Company (Alexa & Google - In Beta)
 - TiVo Remote Jokes
 
-##### Demos
+#### VoiceXP - Demos
 - Telsa (shown at re:Invent 2017)
 - Enterprise Rent-a-car
 - Harlem Globetrotters
