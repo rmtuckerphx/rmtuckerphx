@@ -42,8 +42,39 @@ learner | harmony | connectedness | analytical | deliberative | intellection | d
 - Unofficial Princess Bride
 
 ### Work Alexa Skills
+#### Soar.com
 - My Sandler
 - Soar Uplift [[launch]](https://alexa-skills.amazon.com/apis/custom/skills/amzn1.ask.skill.1be65940-84e8-44f1-886e-7c6ac189ebf1/tasks/LaunchStats/versions/1?a2z_ref=tucker_github)
+#### VoiceXP
+##### Production
+- Chingy
+- Mercy
+- Midtown Martin
+- City of Ozark Missouri
+- First Integrity Mortgage
+- VoiceXP
+- ASU - Events, Hours & Info
+- Choose Arizona (ASU)
+- Healthcare Company (Alexa & Google - In Beta)
+- TiVo Remote Jokes
+
+##### Demos
+- Telsa (shown at re:Invent 2017)
+- Enterprise Rent-a-car
+- Harlem Globetrotters
+- Bommarito Auto Dealership
+- Faith Life Church
+- Radio personality trivia game
+- Recruiter job listings
+- Cloud Service Dashboard
+- Grand Prize/Raffle
+- Connected science lab integration
+- Corporate Team Info
+- Microsoft Office integration
+- Not-for-profit health system
+- Music to help you focus, relax, or sleep
+- Hotel property
+- Amusement park
 
 ### Visual Studio Code Extensions
 - [AWS CLI Configure](https://marketplace.visualstudio.com/items?itemName=mark-tucker.aws-cli-configure)
