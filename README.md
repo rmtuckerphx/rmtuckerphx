@@ -102,6 +102,8 @@ learner | harmony | connectedness | analytical | deliberative | intellection | d
 - [23 Feb 2018 - How to Sway Voting for Alexa Features?](https://www.linkedin.com/pulse/how-sway-voting-alexa-features-mark-tucker/)
 - [30 Nov 2017 - Celebrities Help Showcase Voice Technology](https://www.linkedin.com/pulse/celebrities-help-showcase-voice-technology-mark-tucker/)
 - [24 Jul 2017 - "Carpe diem!" Voice Designers](https://www.linkedin.com/pulse/carpe-diem-voice-designers-mark-tucker/)
+- Feb 1999 - Write a Macro Language Add-In, Visual Basic Programmer's Journal
+- Feb 1998 - Reduce Long Waits with Threads, Visual Basic Programmer's Journal
 
 ### Other Things
 - [Phoenix Alexa Meetup](https://www.meetup.com/phoenix-arizona-alexa-meetup/)
