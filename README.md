@@ -1,6 +1,9 @@
 ### CliftonStrengths Top 10
 learner | harmony | connectedness | analytical | deliberative | intellection | developer | belief | responsibility | consistency
 
+### Support
+- I accept [$BOT](https://www.rally.io/creator/BOT/). Send to: marktucker
+
 ### Two Voice Devs
 - [YouTube](https://www.youtube.com/channel/UCBWYqZpPY2U_wn2P72FUpBA)
 - [Podcast](https://anchor.fm/two-voice-devs)
