@@ -2,7 +2,7 @@
 learner | harmony | connectedness | analytical | deliberative | intellection | developer | belief | responsibility | consistency
 
 ### Support
-- I accept [$BOT (BOT coin)](https://www.rally.io/creator/BOT/). Send to: marktucker (![Rally username](https://www.rally.io/images/rallyLogo.svg) username)
+- I accept [$BOT Creator Coin on Rally](https://www.rally.io/creator/BOT/). Send to: marktucker (![Rally username](https://www.rally.io/images/rallyLogo.svg) username)
 
 ### Two Voice Devs
 - [YouTube](https://www.youtube.com/channel/UCBWYqZpPY2U_wn2P72FUpBA)
