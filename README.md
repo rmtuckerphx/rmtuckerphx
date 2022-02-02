@@ -3,7 +3,7 @@ learner | harmony | connectedness | analytical | deliberative | intellection | d
 
 ### Support
 - I accept [$BOT Creator Coin on Rally](https://www.rally.io/creator/BOT/). Send to: marktucker (![Rally username](https://www.rally.io/images/rallyLogo.svg) username)
-- buymeacoffee.com/marktucker
+- https://buymeacoffee.com/marktucker
 
 ### Two Voice Devs
 - [YouTube](https://www.youtube.com/channel/UCBWYqZpPY2U_wn2P72FUpBA)
