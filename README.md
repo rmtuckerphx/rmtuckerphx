@@ -2,16 +2,15 @@
 learner | harmony | connectedness | analytical | deliberative | intellection | developer | belief | responsibility | consistency
 
 ### Support
-- I accept [$BOT Creator Coin on Rally](https://www.rally.io/creator/BOT/). Send to: marktucker (![Rally username](https://www.rally.io/images/rallyLogo.svg) username)
 - https://buymeacoffee.com/marktucker
 
 ### Two Voice Devs
 - [YouTube](https://www.youtube.com/channel/UCBWYqZpPY2U_wn2P72FUpBA)
 - [Podcast](https://anchor.fm/two-voice-devs)
 
-### Coming Soon
-
 ### On Social
+- [Dabble Lab APL Video series](https://apl.ninja/MarkTucker/blog/dabble-lab-apl-videos-7edz)
+- [Jovo 4 Explained Video series](https://www.youtube.com/watch?v=5rce0KGFyz8)
 - [23 Oct 2020 - The Voicefluencer Show Ep 1](https://youtu.be/LGExH13KGco)
 - 7 Oct 2020 - VOICE Summit: Why Speech Markdown is Better than SSML - 16 Month Update
 - [4 Oct 2020 - Voicebot Podcast Ep 172](https://voicebot.ai/2020/10/04/two-voice-devs-mark-tucker-and-allen-firstenberg-talk-alexa-google-assistant-and-more-voicebot-podcast-ep-172/)
@@ -37,28 +36,10 @@ learner | harmony | connectedness | analytical | deliberative | intellection | d
 ### Personal Voice Apps
 #### My Alexa Skills
 - Picture Guesser
+- Snatch Word
 - Serve More [[website]](https://servemore.shazaml.com/)
-- Number Spies [[website]](https://numberspies.com/)
-- Encircle Together
-- Mass Shooting Tracker
-
-#### My Bixby Capsules
-- Serve More [[website]](https://servemore.shazaml.com/)
-- SquareAbouts [[website]](https://squareabouts.shazaml.com/)
-- Family Talk [[website]](https://familytalk.shazaml.com/)
-- Unofficial Princess Bride
-
-#### Demos
-- Boy Scouts of America
-
 
 ### Work Voice Apps
-#### Soar.com - Production
-- My Sandler
-- Soar Uplift [[launch]](https://alexa-skills.amazon.com/apis/custom/skills/amzn1.ask.skill.1be65940-84e8-44f1-886e-7c6ac189ebf1/tasks/LaunchStats/versions/1?a2z_ref=tucker_github)
-
-#### Home Number - Production
-- Home Number
 
 #### VoiceXP - Production
 - Chingy
